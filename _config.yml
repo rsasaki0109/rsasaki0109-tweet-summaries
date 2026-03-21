@@ -1,0 +1,21 @@
+title: "@rsasaki0109 Tweet Summaries"
+description: "ロボティクス・自動運転・3D再構成・VLA関連の月次ポストまとめ"
+url: "https://rsasaki0109.github.io"
+baseurl: "/rsasaki0109-tweet-summaries"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: rsasaki0109
+  url: https://x.com/rsasaki0109
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
