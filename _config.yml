@@ -1,21 +1,65 @@
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: "dark"
+
 title: "@rsasaki0109 Tweet Summaries"
+subtitle: "Robotics / Autonomous Driving / 3D Reconstruction / VLA"
 description: "ロボティクス・自動運転・3D再構成・VLA関連の月次ポストまとめ"
 url: "https://rsasaki0109.github.io"
 baseurl: "/rsasaki0109-tweet-summaries"
-theme: minima
+logo: "/assets/images/header.svg"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
-  name: rsasaki0109
-  url: https://x.com/rsasaki0109
+  name: "rsasaki0109"
+  bio: "Robotics / Autonomous Driving / 3D Reconstruction / VLA"
+  avatar: "https://pbs.twimg.com/profile_images/1781319471143981056/Bm6JGf3h_400x400.jpg"
+  links:
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/rsasaki0109"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rsasaki0109"
+
+og_image: "/assets/images/og-image.png"
 
 permalink: /:year/:month/:day/:title/
 
 defaults:
   - scope:
-      path: "_posts"
+      path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "single"
+      author_profile: true
+      show_date: true
+      read_time: true
+      share: true
+      related: true
+      toc: true
+      toc_label: "目次"
+      header:
+        overlay_image: /assets/images/header.svg
+        overlay_filter: 0.3
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+footer:
+  links:
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/rsasaki0109"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rsasaki0109"
