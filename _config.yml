@@ -1,6 +1,9 @@
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "dark"
 
+search: true
+search_full_content: true
+
 title: "@rsasaki0109 Tweet Summaries"
 subtitle: "Robotics / Autonomous Driving / 3D Reconstruction / VLA"
 description: "ロボティクス・自動運転・3D再構成・VLA関連の月次ポストまとめ"
@@ -67,6 +70,10 @@ navigation:
     url: /
   - title: "カテゴリ"
     url: /categories/
+  - title: "年別アーカイブ"
+    url: /yearly/
+  - title: "タグ"
+    url: /tags/
 
 footer:
   links:
