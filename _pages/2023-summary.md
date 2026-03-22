@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header-bg.png
   overlay_filter: 0.3
   caption: "2023年 年間サマリー | 240件のポスト"
-og_image: "/rsasaki0109-tweet-summaries/assets/images/tweets/2023-12/1739951530525249810.jpg"
+  og_image: "/rsasaki0109-tweet-summaries/assets/images/tweets/2023-12/1739951530525249810.jpg"
 ---
 
 ## 📊 年間概要

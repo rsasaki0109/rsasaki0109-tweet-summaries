@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header-bg.png
   overlay_filter: 0.3
   caption: "2025年 年間サマリー | 227件のポスト"
-og_image: "/rsasaki0109-tweet-summaries/assets/images/tweets/2025-09/1971756431117635694.jpg"
+  og_image: "/rsasaki0109-tweet-summaries/assets/images/tweets/2025-09/1971756431117635694.jpg"
 ---
 
 ## 📊 年間概要
