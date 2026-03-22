@@ -44,8 +44,8 @@ defaults:
       toc: true
       toc_label: "目次"
       header:
-        overlay_image: /assets/images/header.svg
-        overlay_filter: 0.3
+        overlay_image: /assets/images/header-bg.svg
+        overlay_filter: 0.2
   - scope:
       path: ""
     values:
