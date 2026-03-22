@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header-bg.png
   overlay_filter: 0.3
   caption: "2022年 年間サマリー | 59件のポスト"
-  og_image: "/rsasaki0109-tweet-summaries/assets/images/tweets/2022-09/1572058942121082881.jpg"
+  og_image: "/assets/images/tweets/2022-09/1572058942121082881.jpg"
 ---
 
 ## 📊 年間概要

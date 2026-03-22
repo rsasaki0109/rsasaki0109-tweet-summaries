@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header-bg.png
   overlay_filter: 0.3
   caption: "2024年 年間サマリー | 236件のポスト"
-  og_image: "/rsasaki0109-tweet-summaries/assets/images/tweets/2024-05/1792193498885841090.jpg"
+  og_image: "/assets/images/tweets/2024-05/1792193498885841090.jpg"
 ---
 
 ## 📊 年間概要

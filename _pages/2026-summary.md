@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header-bg.png
   overlay_filter: 0.3
   caption: "2026年 年間サマリー | 75件のポスト"
-  og_image: "/rsasaki0109-tweet-summaries/assets/images/tweets/2026-03/2031203389657288759.jpg"
+  og_image: "/assets/images/tweets/2026-03/2031203389657288759.jpg"
 ---
 
 ## 📊 年間概要
