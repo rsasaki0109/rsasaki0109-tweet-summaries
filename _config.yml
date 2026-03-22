@@ -55,6 +55,15 @@ category_archive:
   type: liquid
   path: /categories/
 
+include:
+  - _pages
+
+navigation:
+  - title: "ホーム"
+    url: /
+  - title: "カテゴリ"
+    url: /categories/
+
 footer:
   links:
     - label: "X (Twitter)"
