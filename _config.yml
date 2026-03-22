@@ -13,6 +13,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-paginate
 
 author:
   name: "rsasaki0109"
@@ -29,6 +30,9 @@ author:
 og_image: "/assets/images/og-image.png"
 
 permalink: /:year/:month/:day/:title/
+
+paginate: 12
+paginate_path: "/page:num/"
 
 defaults:
   - scope:
