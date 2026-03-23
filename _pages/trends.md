@@ -11,12 +11,12 @@ header:
   caption: "837件のポスト | 2022-07 ~ 2026-03"
 ---
 
-<div style="text-align:center; padding:24px 0 32px; border-bottom:1px solid rgba(255,255,255,0.1); margin-bottom:32px;">
-<div style="font-size:1.5em; font-weight:bold; line-height:1.6; color:#e8e8e8;">
-2022年に月10件だった技術ポストが<br>
-<span style="color:#00d2ff; font-size:1.3em;">3年で月22件・いいね3倍</span>に成長した軌跡
+<div style="text-align:center; padding:20px 0 28px; border-bottom:1px solid rgba(255,255,255,0.1); margin-bottom:32px;">
+<div style="font-size:1.4em; font-weight:bold; line-height:1.6; color:#e8e8e8;">
+45ヶ月・837件のポストから見える<br>
+<span style="color:#00d2ff;">ロボティクス・自動運転界隈のトレンド</span>
 </div>
-<div style="margin-top:12px; opacity:0.5;">45ヶ月 / 837件 / ♥66,383</div>
+<div style="margin-top:10px; font-size:0.9em; opacity:0.7;">直近の注目: 🏗️ 3D再構成・SLAM / 1投稿あたりの反響が最も大きいのは 🧠 VLA・Foundation Model（平均♥105）</div>
 </div>
 
 ## 👑 歴代ベストポスト
