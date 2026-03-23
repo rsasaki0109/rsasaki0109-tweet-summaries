@@ -11,25 +11,97 @@ header:
   caption: "837件のポスト | 2022-07 ~ 2026-03"
 ---
 
-## 📊 全体概要
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:16px; margin-bottom:32px;">
+<div style="background:rgba(0,210,255,0.08); border-radius:12px; padding:20px; text-align:center;">
+<div style="font-size:2em;">📝</div>
+<div style="font-size:1.8em; font-weight:bold; color:#00d2ff;">837</div>
+<div style="font-size:0.9em; opacity:0.8;">総ポスト数</div>
+<div style="font-size:0.75em; opacity:0.5;">45ヶ月間</div>
+</div>
+<div style="background:rgba(0,210,255,0.08); border-radius:12px; padding:20px; text-align:center;">
+<div style="font-size:2em;">❤️</div>
+<div style="font-size:1.8em; font-weight:bold; color:#00d2ff;">66,383</div>
+<div style="font-size:0.9em; opacity:0.8;">累計いいね</div>
+<div style="font-size:0.75em; opacity:0.5;">平均 79/投稿</div>
+</div>
+<div style="background:rgba(0,210,255,0.08); border-radius:12px; padding:20px; text-align:center;">
+<div style="font-size:2em;">🔄</div>
+<div style="font-size:1.8em; font-weight:bold; color:#00d2ff;">10,896</div>
+<div style="font-size:0.9em; opacity:0.8;">累計RT</div>
+<div style="font-size:0.75em; opacity:0.5;">平均 13/投稿</div>
+</div>
+<div style="background:rgba(0,210,255,0.08); border-radius:12px; padding:20px; text-align:center;">
+<div style="font-size:2em;">👀</div>
+<div style="font-size:1.8em; font-weight:bold; color:#00d2ff;">4,730,921</div>
+<div style="font-size:0.9em; opacity:0.8;">累計表示回数</div>
+<div style="font-size:0.75em; opacity:0.5;">平均 5,652/投稿</div>
+</div>
+</div>
 
-**2022-07**から**2026-03**までの**45ヶ月間**、合計**837件**のポストを分析しました。
+## 💡 Key Insights
 
-### カテゴリ別 累計
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin-bottom:32px;">
+<div style="background:rgba(123,47,247,0.08); border-radius:12px; padding:16px;">
+<div style="font-size:0.8em; opacity:0.6;">📈 エンゲージメント成長率</div>
+<div style="font-size:1.4em; font-weight:bold; margin:4px 0;">+222%</div>
+<div style="font-size:0.8em; opacity:0.7;">初期6ヶ月（平均♥35）→ 直近6ヶ月（平均♥113）</div>
+</div>
+<div style="background:rgba(123,47,247,0.08); border-radius:12px; padding:16px;">
+<div style="font-size:0.8em; opacity:0.6;">🔥 最もバズった月</div>
+<div style="font-size:1.4em; font-weight:bold; margin:4px 0;">2024-07</div>
+<div style="font-size:0.8em; opacity:0.7;">平均いいね 150 — 通常の2.0倍</div>
+</div>
+<div style="background:rgba(123,47,247,0.08); border-radius:12px; padding:16px;">
+<div style="font-size:0.8em; opacity:0.6;">🚀 最も成長したカテゴリ</div>
+<div style="font-size:1.4em; font-weight:bold; margin:4px 0;">🧠 VLA・Foundation Model</div>
+<div style="font-size:0.8em; opacity:0.7;">前半→後半で♥が+1009%増加</div>
+</div>
+<div style="background:rgba(123,47,247,0.08); border-radius:12px; padding:16px;">
+<div style="font-size:0.8em; opacity:0.6;">⭐ 1投稿あたり最も反響が大きいカテゴリ</div>
+<div style="font-size:1.4em; font-weight:bold; margin:4px 0;">🧠 VLA・Foundation Model</div>
+<div style="font-size:0.8em; opacity:0.7;">平均♥105 / 投稿</div>
+</div>
+</div>
 
-| カテゴリ | 投稿数 | 合計♥ | 平均♥ |
-|:---------|-------:|------:|------:|
-| 🏗️ 3D再構成・SLAM | 408 | 36,012 | 88 |
-| 🚗 自動運転 | 132 | 10,104 | 77 |
-| 🤖 ロボティクス | 76 | 4,517 | 59 |
-| 🧠 VLA・Foundation Model | 32 | 3,362 | 105 |
-| 📄 論文紹介 | 54 | 4,713 | 87 |
-| 🔧 OSS・ツール | 16 | 995 | 62 |
-| 💬 その他 | 119 | 6,680 | 56 |
+## 👑 歴代No.1ポスト
+
+> ge-gnss-visibility GNSS satellite visibility simulation from Google Earth
+>
+> 🔗 [ポストを見る](https://x.com/rsasaki0109/status/1817573476053524886)
+
+**♥ 999** / **RT 170** / **69,000 views** — 2024-07
+
+## 📊 カテゴリ別パフォーマンス
+
+**🏗️ 3D再構成・SLAM** — 408件 (49%) / 平均♥88
+
+<div style="background:rgba(0,210,255,0.1); border-radius:4px; height:8px; margin-bottom:16px;"><div style="background:linear-gradient(90deg,#00d2ff,#7b2ff7); border-radius:4px; height:100%; width:100%;"></div></div>
+
+**🚗 自動運転** — 132件 (16%) / 平均♥77
+
+<div style="background:rgba(0,210,255,0.1); border-radius:4px; height:8px; margin-bottom:16px;"><div style="background:linear-gradient(90deg,#00d2ff,#7b2ff7); border-radius:4px; height:100%; width:28%;"></div></div>
+
+**🤖 ロボティクス** — 76件 (9%) / 平均♥59
+
+<div style="background:rgba(0,210,255,0.1); border-radius:4px; height:8px; margin-bottom:16px;"><div style="background:linear-gradient(90deg,#00d2ff,#7b2ff7); border-radius:4px; height:100%; width:13%;"></div></div>
+
+**🧠 VLA・Foundation Model** — 32件 (4%) / 平均♥105
+
+<div style="background:rgba(0,210,255,0.1); border-radius:4px; height:8px; margin-bottom:16px;"><div style="background:linear-gradient(90deg,#00d2ff,#7b2ff7); border-radius:4px; height:100%; width:9%;"></div></div>
+
+**📄 論文紹介** — 54件 (6%) / 平均♥87
+
+<div style="background:rgba(0,210,255,0.1); border-radius:4px; height:8px; margin-bottom:16px;"><div style="background:linear-gradient(90deg,#00d2ff,#7b2ff7); border-radius:4px; height:100%; width:13%;"></div></div>
+
+**🔧 OSS・ツール** — 16件 (2%) / 平均♥62
+
+<div style="background:rgba(0,210,255,0.1); border-radius:4px; height:8px; margin-bottom:16px;"><div style="background:linear-gradient(90deg,#00d2ff,#7b2ff7); border-radius:4px; height:100%; width:3%;"></div></div>
+
+**💬 その他** — 119件 (14%) / 平均♥56
+
+<div style="background:rgba(0,210,255,0.1); border-radius:4px; height:8px; margin-bottom:16px;"><div style="background:linear-gradient(90deg,#00d2ff,#7b2ff7); border-radius:4px; height:100%; width:19%;"></div></div>
 
 ## 📈 月別エンゲージメント推移
-
-月ごとの平均いいね数の推移です。
 
 | 月 | 投稿数 | 平均♥ | |
 |:---|-------:|------:|:--|
@@ -83,18 +155,49 @@ header:
 
 半年ごとに最もいいねを集めたカテゴリの推移です。
 
-| 期間 | 投稿数 | 人気カテゴリ | いいね計 |
-|:-----|-------:|:------------|--------:|
-| 2022-07 ~ 2022-12 | 59 | 🏗️ 3D再構成・SLAM | 1,269 |
-| 2023-01 ~ 2023-06 | 120 | 🏗️ 3D再構成・SLAM | 2,780 |
-| 2023-07 ~ 2023-12 | 120 | 🏗️ 3D再構成・SLAM | 3,575 |
-| 2024-01 ~ 2024-06 | 117 | 🏗️ 3D再構成・SLAM | 5,788 |
-| 2024-07 ~ 2024-12 | 119 | 🏗️ 3D再構成・SLAM | 5,629 |
-| 2025-01 ~ 2025-06 | 111 | 🏗️ 3D再構成・SLAM | 5,167 |
-| 2025-07 ~ 2025-12 | 116 | 🏗️ 3D再構成・SLAM | 7,584 |
-| 2026-01 ~ 2026-03 | 75 | 🏗️ 3D再構成・SLAM | 4,220 |
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding:12px; background:rgba(0,210,255,0.05); border-radius:8px; border-left:4px solid #7b2ff7;">
+<div style="min-width:120px; font-size:0.85em; opacity:0.7;">2022-07 ~ 2022-12</div>
+<div style="font-weight:bold;">🏗️ 3D再構成・SLAM</div>
+<div style="margin-left:auto; opacity:0.7;">♥1,269 / 59件</div>
+</div>
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding:12px; background:rgba(0,210,255,0.05); border-radius:8px; border-left:4px solid #7b2ff7;">
+<div style="min-width:120px; font-size:0.85em; opacity:0.7;">2023-01 ~ 2023-06</div>
+<div style="font-weight:bold;">🏗️ 3D再構成・SLAM</div>
+<div style="margin-left:auto; opacity:0.7;">♥2,780 / 120件</div>
+</div>
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding:12px; background:rgba(0,210,255,0.05); border-radius:8px; border-left:4px solid #7b2ff7;">
+<div style="min-width:120px; font-size:0.85em; opacity:0.7;">2023-07 ~ 2023-12</div>
+<div style="font-weight:bold;">🏗️ 3D再構成・SLAM</div>
+<div style="margin-left:auto; opacity:0.7;">♥3,575 / 120件</div>
+</div>
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding:12px; background:rgba(0,210,255,0.05); border-radius:8px; border-left:4px solid #7b2ff7;">
+<div style="min-width:120px; font-size:0.85em; opacity:0.7;">2024-01 ~ 2024-06</div>
+<div style="font-weight:bold;">🏗️ 3D再構成・SLAM</div>
+<div style="margin-left:auto; opacity:0.7;">♥5,788 / 117件</div>
+</div>
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding:12px; background:rgba(0,210,255,0.05); border-radius:8px; border-left:4px solid #7b2ff7;">
+<div style="min-width:120px; font-size:0.85em; opacity:0.7;">2024-07 ~ 2024-12</div>
+<div style="font-weight:bold;">🏗️ 3D再構成・SLAM</div>
+<div style="margin-left:auto; opacity:0.7;">♥5,629 / 119件</div>
+</div>
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding:12px; background:rgba(0,210,255,0.05); border-radius:8px; border-left:4px solid #7b2ff7;">
+<div style="min-width:120px; font-size:0.85em; opacity:0.7;">2025-01 ~ 2025-06</div>
+<div style="font-weight:bold;">🏗️ 3D再構成・SLAM</div>
+<div style="margin-left:auto; opacity:0.7;">♥5,167 / 111件</div>
+</div>
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding:12px; background:rgba(0,210,255,0.05); border-radius:8px; border-left:4px solid #7b2ff7;">
+<div style="min-width:120px; font-size:0.85em; opacity:0.7;">2025-07 ~ 2025-12</div>
+<div style="font-weight:bold;">🏗️ 3D再構成・SLAM</div>
+<div style="margin-left:auto; opacity:0.7;">♥7,584 / 116件</div>
+</div>
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding:12px; background:rgba(0,210,255,0.05); border-radius:8px; border-left:4px solid #7b2ff7;">
+<div style="min-width:120px; font-size:0.85em; opacity:0.7;">2026-01 ~ 2026-03</div>
+<div style="font-weight:bold;">🏗️ 3D再構成・SLAM</div>
+<div style="margin-left:auto; opacity:0.7;">♥4,220 / 75件</div>
+</div>
 
-### 期間別カテゴリ分布
+<details>
+<summary>期間別カテゴリ分布の詳細</summary>
 
 **2022-07 ~ 2022-12** (59件)
 
@@ -175,20 +278,84 @@ header:
 - 🤖 ロボティクス: 5件 / ♥270 █
 - 🔧 OSS・ツール: 4件 / ♥36 █
 
+</details>
+
 ## 🏆 全期間トップ20
+
+**1位** 💬 ♥999 / RT 170 — 2024-07
+
+> [ge-gnss-visibility GNSS satellite visibility simulation from Google Earth](https://x.com/rsasaki0109/status/1817573476053524886)
+
+---
+
+**2位** 💬 ♥852 / RT 108 — 2026-02
+
+> [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://x.com/rsasaki0109/status/2020996011565666582)
+
+---
+
+**3位** 🏗️ ♥674 / RT 100 — 2024-11
+
+> [AutoCarROS2 A virtual simulation platform for autonomous vehicle sensing, mapping, control and behaviour methods using R...](https://x.com/rsasaki0109/status/1858127195136229473)
+
+---
+
+**4位** 📄 ♥533 / RT 70 — 2025-09
+
+<img src="/rsasaki0109-tweet-summaries/assets/images/tweets/2025-09/1971756431117635694.jpg" style="max-width:100%; border-radius:8px; margin-bottom:8px;" />
+
+> [[NeurIPS 2025] Official Implementation of DINO-Foresight: Looking into the Future with DINO](https://x.com/rsasaki0109/status/1971756431117635694)
+
+---
+
+**5位** 🧠 ♥484 / RT 76 — 2026-03
+
+<img src="/rsasaki0109-tweet-summaries/assets/images/tweets/2026-03/2031203389657288759.jpg" style="max-width:100%; border-radius:8px; margin-bottom:8px;" />
+
+> [Describe Anything, Anywhere, at Any Moment DAAAM builds a hierarchical 4D scene graph as spatio-temporal memory, enablin...](https://x.com/rsasaki0109/status/2031203389657288759)
+
+---
+
+**6位** 🏗️ ♥468 / RT 66 — 2026-02
+
+<img src="/rsasaki0109-tweet-summaries/assets/images/tweets/2026-02/2021374303699337658.jpg" style="max-width:100%; border-radius:8px; margin-bottom:8px;" />
+
+> [insight-sam3 Uses SAM3 to transfer 2D semantics onto 3D point clouds, producing segmented training data and efficient sc...](https://x.com/rsasaki0109/status/2021374303699337658)
+
+---
+
+**7位** 🏗️ ♥416 / RT 49 — 2025-11
+
+> [[CVPR 2025 Highlight] SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos SLAM3R is a real-time dense...](https://x.com/rsasaki0109/status/1991297750454214998)
+
+---
+
+**8位** 🧠 ♥400 / RT 65 — 2026-01
+
+<img src="/rsasaki0109-tweet-summaries/assets/images/tweets/2026-01/2012833450739527818.jpg" style="max-width:100%; border-radius:8px; margin-bottom:8px;" />
+
+> [SpatialLLM：Enhancing Large Language Models for Urban Spatial Intelligence SpatialLLM is a comprehensive framework for en...](https://x.com/rsasaki0109/status/2012833450739527818)
+
+---
+
+**9位** 📄 ♥399 / RT 51 — 2024-09
+
+> [GeoCalib 📸 Single-image Calibration with Geometric Optimization(ECCV 2024)](https://x.com/rsasaki0109/status/1835661915483263237)
+
+---
+
+**10位** 🚗 ♥395 / RT 69 — 2025-09
+
+<img src="/rsasaki0109-tweet-summaries/assets/images/tweets/2025-09/1964849853089108285.jpg" style="max-width:100%; border-radius:8px; margin-bottom:8px;" />
+
+> [RKO_LIO - LiDAR-Inertial Odometry Without Sensor-Specific Modelling Four different platforms, four different environment...](https://x.com/rsasaki0109/status/1964849853089108285)
+
+
+<details>
+<summary>11位〜20位を表示</summary>
 
 | # | 投稿 | カテゴリ | ♥ | RT | 月 |
 |--:|:-----|:--------|--:|---:|:---|
-| 1 | [ge-gnss-visibility GNSS satellite visibility simulation from...](https://x.com/rsasaki0109/status/1817573476053524886) | 💬 | 999 | 170 | 2024-07 |
-| 2 | [EgoX: Egocentric Video Generation from a Single Exocentric V...](https://x.com/rsasaki0109/status/2020996011565666582) | 💬 | 852 | 108 | 2026-02 |
-| 3 | [AutoCarROS2 A virtual simulation platform for autonomous veh...](https://x.com/rsasaki0109/status/1858127195136229473) | 🏗️ | 674 | 100 | 2024-11 |
-| 4 | [[NeurIPS 2025] Official Implementation of DINO-Foresight: Lo...](https://x.com/rsasaki0109/status/1971756431117635694) | 📄 | 533 | 70 | 2025-09 |
-| 5 | [Describe Anything, Anywhere, at Any Moment DAAAM builds a hi...](https://x.com/rsasaki0109/status/2031203389657288759) | 🧠 | 484 | 76 | 2026-03 |
-| 6 | [insight-sam3 Uses SAM3 to transfer 2D semantics onto 3D poin...](https://x.com/rsasaki0109/status/2021374303699337658) | 🏗️ | 468 | 66 | 2026-02 |
-| 7 | [[CVPR 2025 Highlight] SLAM3R: Real-Time Dense Scene Reconstr...](https://x.com/rsasaki0109/status/1991297750454214998) | 🏗️ | 416 | 49 | 2025-11 |
-| 8 | [SpatialLLM：Enhancing Large Language Models for Urban Spatial...](https://x.com/rsasaki0109/status/2012833450739527818) | 🧠 | 400 | 65 | 2026-01 |
-| 9 | [GeoCalib 📸 Single-image Calibration with Geometric Optimizat...](https://x.com/rsasaki0109/status/1835661915483263237) | 📄 | 399 | 51 | 2024-09 |
-| 10 | [RKO_LIO - LiDAR-Inertial Odometry Without Sensor-Specific Mo...](https://x.com/rsasaki0109/status/1964849853089108285) | 🚗 | 395 | 69 | 2025-09 |
 | 11 | [GNSS受信機に関する神資料が公開されてる GNSS 受信機の概要 I アンテナ信号入力から、擬似距離出力まで](https://x.com/rsasaki0109/status/1739951530525249810) | 🔧 | 361 | 96 | 2023-12 |
 | 12 | [Representing 3D sparse map points and lines for camera reloc...](https://x.com/rsasaki0109/status/1771476994926264716) | 🏗️ | 355 | 65 | 2024-03 |
 | 13 | [YOLOs-CPP A high-performance C++ headers for real-time objec...](https://x.com/rsasaki0109/status/1860659884175360322) | 🚗 | 344 | 66 | 2024-11 |
@@ -199,6 +366,8 @@ header:
 | 18 | [3D-RE-GEN 3D Reconstruction of Indoor Scenes with a Generati...](https://x.com/rsasaki0109/status/2006289237696741658) | 🏗️ | 278 | 32 | 2025-12 |
 | 19 | [OpenNavMap Structure-Free Topometric Mapping via Large-Scale...](https://x.com/rsasaki0109/status/2017375637280022632) | 🏗️ | 276 | 43 | 2026-01 |
 | 20 | [ge-drive-visualizer Visualization of vehicle position and po...](https://x.com/rsasaki0109/status/1905228316484989121) | 🏗️ | 270 | 45 | 2025-03 |
+
+</details>
 
 ## 🗓️ 月別カテゴリ投稿数
 
