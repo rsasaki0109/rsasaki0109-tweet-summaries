@@ -11,65 +11,100 @@ header:
   caption: "837件のポスト | 2022-07 ~ 2026-03"
 ---
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:16px; margin-bottom:32px;">
-<div style="background:rgba(0,210,255,0.08); border-radius:12px; padding:20px; text-align:center;">
-<div style="font-size:2em;">📝</div>
-<div style="font-size:1.8em; font-weight:bold; color:#00d2ff;">837</div>
-<div style="font-size:0.9em; opacity:0.8;">総ポスト数</div>
-<div style="font-size:0.75em; opacity:0.5;">45ヶ月間</div>
+<div style="text-align:center; padding:24px 0 32px; border-bottom:1px solid rgba(255,255,255,0.1); margin-bottom:32px;">
+<div style="font-size:1.5em; font-weight:bold; line-height:1.6; color:#e8e8e8;">
+2022年に月10件だった技術ポストが<br>
+<span style="color:#00d2ff; font-size:1.3em;">3年で月22件・いいね3倍</span>に成長した軌跡
 </div>
-<div style="background:rgba(0,210,255,0.08); border-radius:12px; padding:20px; text-align:center;">
-<div style="font-size:2em;">❤️</div>
-<div style="font-size:1.8em; font-weight:bold; color:#00d2ff;">66,383</div>
-<div style="font-size:0.9em; opacity:0.8;">累計いいね</div>
-<div style="font-size:0.75em; opacity:0.5;">平均 79/投稿</div>
+<div style="margin-top:12px; opacity:0.5;">45ヶ月 / 837件 / ♥66,383</div>
 </div>
-<div style="background:rgba(0,210,255,0.08); border-radius:12px; padding:20px; text-align:center;">
-<div style="font-size:2em;">🔄</div>
-<div style="font-size:1.8em; font-weight:bold; color:#00d2ff;">10,896</div>
-<div style="font-size:0.9em; opacity:0.8;">累計RT</div>
-<div style="font-size:0.75em; opacity:0.5;">平均 13/投稿</div>
+
+## 👑 歴代ベストポスト
+
+<div style="position:relative; border-radius:12px; overflow:hidden; margin-bottom:24px;">
+<img src="/rsasaki0109-tweet-summaries/assets/images/tweets/2025-09/1971756431117635694.jpg" style="width:100%; display:block;" />
+<div style="position:absolute; bottom:0; left:0; right:0; padding:20px; background:linear-gradient(transparent, rgba(0,0,0,0.85));">
+<div style="font-size:1.1em; font-weight:bold; color:white;">[NeurIPS 2025] Official Implementation of DINO-Foresight: Looking into the Future with DINO</div>
+<div style="margin-top:8px; color:#00d2ff;">♥ 533 / RT 70 / 33,000 views</div>
+</div></div>
+🔗 [ポストを見る](https://x.com/rsasaki0109/status/1971756431117635694)
+
+<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:16px; margin:32px 0;">
+<div style="text-align:center; padding:20px; background:rgba(0,210,255,0.06); border-radius:12px; border-top:3px solid #7b2ff7;">
+<div style="font-size:2em; font-weight:bold; color:#00d2ff;">+222%</div>
+<div style="font-size:0.95em; margin-top:4px;">いいね成長率</div>
+<div style="font-size:0.75em; opacity:0.5; margin-top:4px;">初期 平均♥35 → 直近 平均♥113</div>
 </div>
-<div style="background:rgba(0,210,255,0.08); border-radius:12px; padding:20px; text-align:center;">
-<div style="font-size:2em;">👀</div>
-<div style="font-size:1.8em; font-weight:bold; color:#00d2ff;">4,730,921</div>
-<div style="font-size:0.9em; opacity:0.8;">累計表示回数</div>
-<div style="font-size:0.75em; opacity:0.5;">平均 5,652/投稿</div>
+<div style="text-align:center; padding:20px; background:rgba(0,210,255,0.06); border-radius:12px; border-top:3px solid #7b2ff7;">
+<div style="font-size:2em; font-weight:bold; color:#00d2ff;">🏗️</div>
+<div style="font-size:0.95em; margin-top:4px;">3D再構成・SLAM</div>
+<div style="font-size:0.75em; opacity:0.5; margin-top:4px;">408件 — 全体の49%</div>
+</div>
+<div style="text-align:center; padding:20px; background:rgba(0,210,255,0.06); border-radius:12px; border-top:3px solid #7b2ff7;">
+<div style="font-size:2em; font-weight:bold; color:#00d2ff;">♥105</div>
+<div style="font-size:0.95em; margin-top:4px;">最高反響カテゴリ</div>
+<div style="font-size:0.75em; opacity:0.5; margin-top:4px;">🧠 VLA・Foundation Model の平均いいね</div>
 </div>
 </div>
 
-## 💡 Key Insights
+## 📖 成長ストーリー
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin-bottom:32px;">
-<div style="background:rgba(123,47,247,0.08); border-radius:12px; padding:16px;">
-<div style="font-size:0.8em; opacity:0.6;">📈 エンゲージメント成長率</div>
-<div style="font-size:1.4em; font-weight:bold; margin:4px 0;">+222%</div>
-<div style="font-size:0.8em; opacity:0.7;">初期6ヶ月（平均♥35）→ 直近6ヶ月（平均♥113）</div>
-</div>
-<div style="background:rgba(123,47,247,0.08); border-radius:12px; padding:16px;">
-<div style="font-size:0.8em; opacity:0.6;">🔥 最もバズった月</div>
-<div style="font-size:1.4em; font-weight:bold; margin:4px 0;">2024-07</div>
-<div style="font-size:0.8em; opacity:0.7;">平均いいね 150 — 通常の2.0倍</div>
-</div>
-<div style="background:rgba(123,47,247,0.08); border-radius:12px; padding:16px;">
-<div style="font-size:0.8em; opacity:0.6;">🚀 最も成長したカテゴリ</div>
-<div style="font-size:1.4em; font-weight:bold; margin:4px 0;">🧠 VLA・Foundation Model</div>
-<div style="font-size:0.8em; opacity:0.7;">前半→後半で♥が+1009%増加</div>
-</div>
-<div style="background:rgba(123,47,247,0.08); border-radius:12px; padding:16px;">
-<div style="font-size:0.8em; opacity:0.6;">⭐ 1投稿あたり最も反響が大きいカテゴリ</div>
-<div style="font-size:1.4em; font-weight:bold; margin:4px 0;">🧠 VLA・Foundation Model</div>
-<div style="font-size:0.8em; opacity:0.7;">平均♥105 / 投稿</div>
-</div>
-</div>
-
-## 👑 歴代No.1ポスト
-
-> ge-gnss-visibility GNSS satellite visibility simulation from Google Earth
->
-> 🔗 [ポストを見る](https://x.com/rsasaki0109/status/1817573476053524886)
-
-**♥ 999** / **RT 170** / **69,000 views** — 2024-07
+<div style="display:flex; gap:16px; margin-bottom:0; padding-bottom:16px; border-left:2px solid rgba(0,210,255,0.3); padding-left:20px; position:relative;">
+<div style="position:absolute; left:-7px; top:0; width:12px; height:12px; border-radius:50%; background:#00d2ff;"></div>
+<div style="flex:1;">
+<div style="font-size:0.8em; opacity:0.5;">2022-07 ~ 2022-12</div>
+<div style="font-weight:bold; font-size:1.1em; margin:4px 0;">🏗️ 3D再構成・SLAMが最多人気</div>
+<div style="font-size:0.85em; opacity:0.7;">59件のポスト / 1位カテゴリ♥1,269（平均♥40）</div>
+</div></div>
+<div style="display:flex; gap:16px; margin-bottom:0; padding-bottom:16px; border-left:2px solid rgba(0,210,255,0.3); padding-left:20px; position:relative;">
+<div style="position:absolute; left:-7px; top:0; width:12px; height:12px; border-radius:50%; background:#00d2ff;"></div>
+<div style="flex:1;">
+<div style="font-size:0.8em; opacity:0.5;">2023-01 ~ 2023-06</div>
+<div style="font-weight:bold; font-size:1.1em; margin:4px 0;">🏗️ 3D再構成・SLAMが最多人気</div>
+<div style="font-size:0.85em; opacity:0.7;">120件のポスト / 1位カテゴリ♥2,780（平均♥43）</div>
+</div></div>
+<div style="display:flex; gap:16px; margin-bottom:0; padding-bottom:16px; border-left:2px solid rgba(0,210,255,0.3); padding-left:20px; position:relative;">
+<div style="position:absolute; left:-7px; top:0; width:12px; height:12px; border-radius:50%; background:#00d2ff;"></div>
+<div style="flex:1;">
+<div style="font-size:0.8em; opacity:0.5;">2023-07 ~ 2023-12</div>
+<div style="font-weight:bold; font-size:1.1em; margin:4px 0;">🏗️ 3D再構成・SLAMが最多人気</div>
+<div style="font-size:0.85em; opacity:0.7;">120件のポスト / 1位カテゴリ♥3,575（平均♥62）</div>
+</div></div>
+<div style="display:flex; gap:16px; margin-bottom:0; padding-bottom:16px; border-left:2px solid rgba(0,210,255,0.3); padding-left:20px; position:relative;">
+<div style="position:absolute; left:-7px; top:0; width:12px; height:12px; border-radius:50%; background:#00d2ff;"></div>
+<div style="flex:1;">
+<div style="font-size:0.8em; opacity:0.5;">2024-01 ~ 2024-06</div>
+<div style="font-weight:bold; font-size:1.1em; margin:4px 0;">🏗️ 3D再構成・SLAMが最多人気</div>
+<div style="font-size:0.85em; opacity:0.7;">117件のポスト / 1位カテゴリ♥5,788（平均♥113）</div>
+</div></div>
+<div style="display:flex; gap:16px; margin-bottom:0; padding-bottom:16px; border-left:2px solid rgba(0,210,255,0.3); padding-left:20px; position:relative;">
+<div style="position:absolute; left:-7px; top:0; width:12px; height:12px; border-radius:50%; background:#00d2ff;"></div>
+<div style="flex:1;">
+<div style="font-size:0.8em; opacity:0.5;">2024-07 ~ 2024-12</div>
+<div style="font-weight:bold; font-size:1.1em; margin:4px 0;">🏗️ 3D再構成・SLAMが最多人気</div>
+<div style="font-size:0.85em; opacity:0.7;">119件のポスト / 1位カテゴリ♥5,629（平均♥102）</div>
+</div></div>
+<div style="display:flex; gap:16px; margin-bottom:0; padding-bottom:16px; border-left:2px solid rgba(0,210,255,0.3); padding-left:20px; position:relative;">
+<div style="position:absolute; left:-7px; top:0; width:12px; height:12px; border-radius:50%; background:#00d2ff;"></div>
+<div style="flex:1;">
+<div style="font-size:0.8em; opacity:0.5;">2025-01 ~ 2025-06</div>
+<div style="font-weight:bold; font-size:1.1em; margin:4px 0;">🏗️ 3D再構成・SLAMが最多人気</div>
+<div style="font-size:0.85em; opacity:0.7;">111件のポスト / 1位カテゴリ♥5,167（平均♥91）</div>
+</div></div>
+<div style="display:flex; gap:16px; margin-bottom:0; padding-bottom:16px; border-left:2px solid rgba(0,210,255,0.3); padding-left:20px; position:relative;">
+<div style="position:absolute; left:-7px; top:0; width:12px; height:12px; border-radius:50%; background:#00d2ff;"></div>
+<div style="flex:1;">
+<div style="font-size:0.8em; opacity:0.5;">2025-07 ~ 2025-12</div>
+<div style="font-weight:bold; font-size:1.1em; margin:4px 0;">🏗️ 3D再構成・SLAMが最多人気</div>
+<div style="font-size:0.85em; opacity:0.7;">116件のポスト / 1位カテゴリ♥7,584（平均♥122）</div>
+</div></div>
+<div style="display:flex; gap:16px; margin-bottom:0; padding-bottom:16px; border-left:2px solid rgba(0,210,255,0.3); padding-left:20px; position:relative;">
+<div style="position:absolute; left:-7px; top:0; width:12px; height:12px; border-radius:50%; background:#7b2ff7;"></div>
+<div style="flex:1;">
+<div style="font-size:0.8em; opacity:0.5;">2026-01 ~ 2026-03</div>
+<div style="font-weight:bold; font-size:1.1em; margin:4px 0;">🏗️ 3D再構成・SLAMが最多人気</div>
+<div style="font-size:0.85em; opacity:0.7;">75件のポスト / 1位カテゴリ♥4,220（平均♥146）</div>
+</div></div>
 
 ## 📊 カテゴリ別パフォーマンス
 
