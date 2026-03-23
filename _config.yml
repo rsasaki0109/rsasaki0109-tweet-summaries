@@ -72,6 +72,8 @@ navigation:
     url: /categories/
   - title: "年別アーカイブ"
     url: /yearly/
+  - title: "トレンド"
+    url: /trends/
   - title: "タグ"
     url: /tags/
 
